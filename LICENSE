@@ -1,0 +1,13 @@
+
+Certainly, you can create an introductory section for your code in a text file. Here's an example of an introduction and function explanation you can include in a text file:
+
+Introduction:
+This Python script is designed to automate interactions on Instagram using the Instagram Private API. The script allows you to log in with your Instagram account, follow specific users, like their posts, and then unfollow them after a certain period of time. It serves as a basic automation tool for performing interactions on the platform.
+
+Functionality:
+
+Login Function: The script logs in to the Instagram account using the provided username and password.
+Follow Function: It follows a list of specified users, indicated by their usernames.
+Like Function: The script likes the recent posts of the followed users.
+Unfollow Function: After a specific time, it unfollows the users that were previously followed.
+Error Handling: The script includes error handling to manage any issues that may arise during the interactions.
