@@ -14,7 +14,7 @@ Latest instagram follower increaser 2023 in python 100% Real using instagram api
 ---
 
 
-![Ht](https://img.shields.io/badge/Made%20by-HackersTech-brightgreen)
+
 
 ---
 
