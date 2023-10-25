@@ -3,8 +3,8 @@
 # Clone the repository
 echo "Cloning the repository..."
 cd ..
-rm -rf followers-increaser
-git clone https://github.com/security-softwares/followers-increaser/
+rm -rf insta-hack
+git clone https://github.com/IT-DIVIDMARK/insta-hack.git
 cd followers-increaser
 
 # Run the provided script
